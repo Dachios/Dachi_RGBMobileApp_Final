@@ -1,6 +1,8 @@
 # mobile_app_final
 
-A new Flutter project.
+CS 4750 Winter Intersession Final Project
+
+RGB Picker Mobile App
 
 ## Getting Started
 
